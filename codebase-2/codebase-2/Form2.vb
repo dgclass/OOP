@@ -4,4 +4,8 @@
         'to close this form
         Me.Close()
     End Sub
+
+    Private Sub Form2_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Me.Text = "Github Test"
+    End Sub
 End Class
