@@ -1,0 +1,23 @@
+C:\Users\RESSE\AppData\Local\Temporary Projects\MdiForm\bin\Debug\MdiForm.exe
+C:\Users\RESSE\AppData\Local\Temporary Projects\MdiForm\bin\Debug\MdiForm.pdb
+C:\Users\RESSE\AppData\Local\Temporary Projects\MdiForm\bin\Debug\MdiForm.xml
+C:\Users\RESSE\AppData\Local\Temporary Projects\MdiForm\obj\x86\Debug\MdiForm.Form1.resources
+C:\Users\RESSE\AppData\Local\Temporary Projects\MdiForm\obj\x86\Debug\MdiForm.Form2.resources
+C:\Users\RESSE\AppData\Local\Temporary Projects\MdiForm\obj\x86\Debug\MdiForm.Form3.resources
+C:\Users\RESSE\AppData\Local\Temporary Projects\MdiForm\obj\x86\Debug\MdiForm.Resources.resources
+C:\Users\RESSE\AppData\Local\Temporary Projects\MdiForm\obj\x86\Debug\MdiForm.vbproj.GenerateResource.Cache
+C:\Users\RESSE\AppData\Local\Temporary Projects\MdiForm\obj\x86\Debug\MdiForm.exe
+C:\Users\RESSE\AppData\Local\Temporary Projects\MdiForm\obj\x86\Debug\MdiForm.xml
+C:\Users\RESSE\AppData\Local\Temporary Projects\MdiForm\obj\x86\Debug\MdiForm.pdb
+C:\Users\RESSE\Documents\Visual Studio 2010\Projects\MdiForm\MdiForm\obj\x86\Debug\MdiForm.exe
+C:\Users\RESSE\Documents\Visual Studio 2010\Projects\MdiForm\MdiForm\obj\x86\Debug\MdiForm.xml
+C:\Users\RESSE\Documents\Visual Studio 2010\Projects\MdiForm\MdiForm\obj\x86\Debug\MdiForm.pdb
+C:\Users\RESSE\Documents\Visual Studio 2010\Projects\MdiForm\MdiForm\bin\Debug\MdiForm.exe
+C:\Users\RESSE\Documents\Visual Studio 2010\Projects\MdiForm\MdiForm\bin\Debug\MdiForm.pdb
+C:\Users\RESSE\Documents\Visual Studio 2010\Projects\MdiForm\MdiForm\bin\Debug\MdiForm.xml
+C:\Users\RESSE\Documents\Visual Studio 2010\Projects\MdiForm\MdiForm\obj\x86\Debug\MdiForm.Form1.resources
+C:\Users\RESSE\Documents\Visual Studio 2010\Projects\MdiForm\MdiForm\obj\x86\Debug\MdiForm.Form2.resources
+C:\Users\RESSE\Documents\Visual Studio 2010\Projects\MdiForm\MdiForm\obj\x86\Debug\MdiForm.Form3.resources
+C:\Users\RESSE\Documents\Visual Studio 2010\Projects\MdiForm\MdiForm\obj\x86\Debug\MdiForm.Resources.resources
+C:\Users\RESSE\Documents\Visual Studio 2010\Projects\MdiForm\MdiForm\obj\x86\Debug\MdiForm.vbproj.GenerateResource.Cache
+C:\Users\RESSE\Documents\Visual Studio 2010\Projects\MdiForm\MdiForm\obj\x86\Debug\MdiForm.Form4.resources
