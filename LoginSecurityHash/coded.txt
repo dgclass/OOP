@@ -1,0 +1,6 @@
+15minutes demo
+
+Learning outcome:
+
+1.) adding security, putting hash in txt file.
+2.) compare hash encoded for login.
